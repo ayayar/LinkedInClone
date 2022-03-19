@@ -14,7 +14,12 @@
   if you want to look my project you can click here [Click me](https://ayayar.github.io/LinkedInClone/)
 
   <hr/>
-  [twitter](https://twitter.com/abdullahyayar) [LinkedIn](https://www.linkedin.com/in/abdullah-yayar-28ab241b8/)
+  
 
+<h3>Connect with me:</h3>
+
+<p align="center">
+
+<a href="https://twitter.com/abdullahyayar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayayar" height="30" width="40" /></a><a href="https://www.linkedin.com/in/abdullah-yayar-28ab241b8/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayayar" height="30" width="40" /></a><a href="https://stackoverflow.com/users/18382985/abdullah-yayar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18382985" height="30" width="40" /></a><a href="https://www.instagram.com/abdullahyayar27/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayayar" height="30" width="40" /></a><a href="https://medium.com/@abdullahyayar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdullahyayar" height="30" width="40" /></a>
 
 
